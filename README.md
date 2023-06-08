@@ -4,6 +4,7 @@
   
 Api для работы с Postgress  
   
+    from psapi import PSApi
     api = PSApi(database='test', user='postgres', password='postgres', host='127.0.0.1')  
   
     Параметры:  
