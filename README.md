@@ -2,6 +2,8 @@
 Модуль PSApi  
 Api для работы с Postgress  
   
+    api = PSApi(database='test', user='postgres', password='postgres', host='127.0.0.1')  
+  
     Параметры:  
     :param database: название базы данных  
     :param user: имя пользователя  
