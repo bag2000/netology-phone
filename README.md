@@ -1,5 +1,7 @@
 # netology-phone
-Модуль PSApi  
+[main.py](https://github.com/bag2000/netology-phone/blob/main/main.py)  
+[Модуль PSApi](https://github.com/bag2000/netology-phone/blob/main/psapi.py)  
+  
 Api для работы с Postgress  
   
     api = PSApi(database='test', user='postgres', password='postgres', host='127.0.0.1')  
